@@ -32,6 +32,7 @@ const List = () => {
         display: "grid",
         gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
         gap: 2,
+        mt: 2,
       }}
     >
       {list.map((item) => {
