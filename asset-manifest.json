@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/reactTravel/static/js/main.d85dd9c4.js",
+    "static/js/787.bc7d429a.chunk.js": "/reactTravel/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/reactTravel/index.html",
+    "main.d85dd9c4.js.map": "/reactTravel/static/js/main.d85dd9c4.js.map",
+    "787.bc7d429a.chunk.js.map": "/reactTravel/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d85dd9c4.js"
+  ]
+}
