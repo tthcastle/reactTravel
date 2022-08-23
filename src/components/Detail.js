@@ -30,7 +30,7 @@ const Detail = () => {
     <Sheet
       sx={{
         m: 2,
-        display: { xs: "none", sm: "flex" },
+        display: { sm: "flex" },
       }}
     >
       <AspectRatio sx={{ minHeight: "500px", minWidth: "50vw" }}>
